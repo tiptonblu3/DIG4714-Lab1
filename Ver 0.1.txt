@@ -1,2 +1,2 @@
 This is Version 0.1
-BUG SPOTTED MUST FIX
+Bug is actually reworked into super cool feature that SOMEONE will like
